@@ -1,0 +1,2 @@
+Hello Server!
+This file is sent from Java Client.
